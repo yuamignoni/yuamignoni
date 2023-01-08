@@ -9,6 +9,8 @@ JavaScript Algorithms and Data Structures
 
 Back End Development and APIs
 
-#### Working on the following cerficates:
+Node.js by Rocketseat
 
-NODE.JS in Rocketseat's Ignite.
+#### Working on the following cerficates:
+React.js by Rocketseat
+
